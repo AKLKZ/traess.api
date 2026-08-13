@@ -12,3 +12,9 @@
   `ProblemDetails`); `Traess.Api` los convierte a `ProblemDetails` reales mediante
   AutoMapper (`Traess.Api.Common.MappingProfile`, inyectando `IMapper`) antes de
   devolverlos en las respuestas HTTP.
+
+## Idioma del código
+
+- Los nombres de clases, propiedades, métodos, namespaces, variables y los comentarios
+  internos del código SIEMPRE se escriben en inglés, aunque el dominio de negocio o la
+  conversación con el usuario se exprese en castellano.
